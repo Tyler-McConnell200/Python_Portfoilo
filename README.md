@@ -1,6 +1,7 @@
-# Python_Portfoilo
+# Python_Portfolio Tyler McConnell
 This is the portfolio that I learned taking BISC 450c
-
+This class was really nice. It gave me a new perpective on biology and how to code. I did encounter some errors, but Dr. VDB was really helping along the way. 
+I really wish I was a faster typer!
 
 ## Notebook 1 and 2
 
